@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "complex": "cpp",
+        "new": "cpp",
+        "iostream": "cpp",
+        "condition_variable": "cpp",
+        "chrono": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
